@@ -36,7 +36,6 @@ Download the **BBC News Summary** dataset from Kaggle:
 https://www.kaggle.com/datasets/pariza/bbc-news-summary
 ```
 
-Extract so the layout is:
 
 ```
 bbc-news-summary/
